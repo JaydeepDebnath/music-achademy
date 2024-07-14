@@ -1,5 +1,9 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "../components/HeroSection";
+import WhyChooseUs from "@/components/WhyChooseUs";
+import TestimonialCards from "@/components/TestimonialCards";
+import UpcommingWebiner from "@/components/UpcommingWebiner";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -7,6 +11,10 @@ export default function Home() {
     bg-grid-white/[0.02]">
       <HeroSection/>
       <FeaturedCourses/>
+      <WhyChooseUs/>
+      <TestimonialCards/>
+      <UpcommingWebiner/>
+      <Footer/>
     </main>
   );
 }

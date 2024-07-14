@@ -44,3 +44,5 @@ function WhyChooseUs () {
         </div>
     )
 }
+
+export default WhyChooseUs;
