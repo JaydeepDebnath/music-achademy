@@ -1,3 +1,5 @@
+
+
 {
     "courses": [
       {
@@ -8,7 +10,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "/courses/guitar.jpg"
+        "image":"https://i.ibb.co/g3jJKh4/guitar.jpg"
       },
       {
         "id": 2,
@@ -18,7 +20,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": false,
-        "image": "/courses/piano.jpg" 
+        "image":"https://i.ibb.co/L64HKW7/piano.jpg"
       },
       {
         "id": 3,
@@ -28,7 +30,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "/courses/vocalist.jpg" 
+        "image":"https://i.ibb.co/dLH2ByL/vocalist.jpg"
       },
       {
         "id": 4,
@@ -38,7 +40,7 @@
         "price": 129.99,
         "instructor": "Mike Brown",
         "isFeatured": false,
-        "image": "/courses/drumming.jpg"
+        "image":"https://i.ibb.co/WnVJpFw/drumming.jpg"
       },
       {
         "id": 5,
@@ -48,7 +50,7 @@
         "price": 139.99,
         "instructor": "Chris Davis",
         "isFeatured": false,
-        "image": "/courses/jazz.jpg"
+        "image": "https://i.ibb.co/6WH2PGt/jazz.jpg"
       },
       {
         "id": 6,
@@ -58,7 +60,7 @@
         "price": 149.99,
         "instructor": "Alex Wilson",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://i.ibb.co/PWZL11Q/music-prod.jpg"
       },
       {
         "id": 7,
@@ -68,7 +70,7 @@
         "price": 159.99,
         "instructor": "Samantha Miller",
         "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
+        "image": "https://i.ibb.co/n7MBKWH/songwriting-essentials.jpg"
       },
       {
         "id": 8,
@@ -78,7 +80,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://i.ibb.co/T8p4v26/electronic.jpg"
       },
       {
         "id": 9,
@@ -88,17 +90,17 @@
         "price": 179.99,
         "instructor": "Grace Lee",
         "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
+        "image": "https://i.ibb.co/64BzBXm/clasical.jpg"
       },
       {
         "id": 10,
-        "title": "Blues Guitar Techniques",
-        "slug": "blues-guitar-techniques",
-        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "title": "Bass Guitar Techniques",
+        "slug": "bass-guitar-techniques",
+        "description": "Discover the techniques of bass guitar to add soul and depth to your playing.",
         "price": 189.99,
         "instructor": "Ethan Moore",
         "isFeatured": true,
-        "image": "/courses/blues.jpg"
+        "image":"https://i.ibb.co/mScXWS3/bass-guitar.jpg"
       }
     ]
   }
